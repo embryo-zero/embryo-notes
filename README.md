@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Notes
+
+**Embryo Notes** is Embryo-Zero's fork of [Misskey](https://github.com/misskey-dev/misskey), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center">
 <a href="https://misskey-hub.net">
 	<img src="./assets/title_float.svg" alt="Misskey logo" style="border-radius:50%" width="300"/>
